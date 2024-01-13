@@ -1,0 +1,19 @@
+{
+  "name": "cse341-contacts-project-main_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jserrao24/cse341-contacts-project-main_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jserrao24/cse341-contacts-project-main_example/issues"
+  },
+  "homepage": "https://github.com/jserrao24/cse341-contacts-project-main_example#readme"
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jserrao24/cse341-contacts-project-main_example/issues"
   },
-  "homepage": "https://github.com/jserrao24/cse341-contacts-project-main_example#readme"
+  "homepage": "https://github.com/jserrao24/cse341-contacts-project-main_example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
